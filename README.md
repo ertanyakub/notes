@@ -1,4 +1,4 @@
-## Simple and understandable example of React Hook, Context and LocalStorage
+## Simple and understandable example of React Hooks, Context and LocalStorage
 
 Live version: https://notlar.netlify.com/
 
